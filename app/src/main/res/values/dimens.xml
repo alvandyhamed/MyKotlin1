@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_titr_size">30sp</dimen>
+    <dimen name="paddingbot">10sp</dimen>
+    <dimen name="toppadding">16sp</dimen>
+    <dimen name="bottompadding">16sp</dimen>
+    <dimen name="padding_start">10sp</dimen>
+    <dimen name="box_txt_size">14sp</dimen>
+</resources>
